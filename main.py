@@ -3,7 +3,7 @@ import constants
 import sys
 from player import Player
 from asteroid import Asteroid
-from astroidfield import *
+from asteroidfield import *
 from circleshape import *
 from shot import *
 
